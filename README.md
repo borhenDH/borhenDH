@@ -1,3 +1,4 @@
+<div align="center"> 
 <h1 align="center">Hi 👋, I'm Borhen eddine dahech</h1>
 <h3 align="center">A passionate data analysis student from Tunisia</h3>
 <img src="https://miro.medium.com/max/720/0*6rAWjI-sT1-QtWJp.webp" alt="">
@@ -24,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borhendh&show_icons=true&locale=en" alt="borhendh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borhendh&" alt="borhendh" /></p>
+  </div>

@@ -5,9 +5,7 @@
 <img width=75% src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif" alt=""/> </div>
 <div  align="center"><hr width= 10%> </div><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=borhendh&label=Profile%20views&color=0e75b6&style=flat" alt="borhendh" /> </p>
-<div text-align = "center" >
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borhendh" alt="borhendh" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data analytics**
 
@@ -28,5 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borhendh&show_icons=true&locale=en" alt="borhendh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borhendh&" alt="borhendh" /></p>
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=borhendh&label=Profile%20views&color=0e75b6&style=flat" alt="borhendh" /> </p>
+<div text-align = "center" >
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borhendh" alt="borhendh" /></a> </p>
 
 </div>

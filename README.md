@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Borhen eddine dahech</h1>
 <h3 align="center">A passionate data analysis student from Tunisia</h3>
 <div align="center">
-<img src="https://i.pinimg.com/564x/fd/ed/c4/fdedc495720aed940f22902c8b80ec6f.jpg" alt=""/> </div>
+<img width=100% src="https://i.pinimg.com/564x/fd/ed/c4/fdedc495720aed940f22902c8b80ec6f.jpg" alt=""/> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhendh&label=Profile%20views&color=0e75b6&style=flat" alt="borhendh" /> </p>
 <div text-align = "center" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borhendh" alt="borhendh" /></a> </p>

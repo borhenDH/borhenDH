@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Data analytics , Machine learning**
 
 - 📫 How to reach me **bdahech08@gmail.com**
 

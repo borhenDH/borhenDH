@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Borhen eddine dahech</h1>
-<h3 align="center">A passionate data analysis and Business intteligence student from Tunisia</h3>
+<h3 align="center">A passionate data analysis and Business intelligence student from Tunisia</h3>
 <div align="center">
 <img width=80% src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif" alt=""/> </div>
 <div  align="center"><hr width= 10%> </div><br>
